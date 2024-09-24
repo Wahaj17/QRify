@@ -5,3 +5,4 @@
       - Enter URL
 >> In one simple step, an image for the URL will be generated.
 >> This project was made using qr-code and inquirer
+>> GUI interface Soon
